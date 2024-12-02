@@ -662,9 +662,47 @@
     <lname>20TR_DATM%GSWP3v1_ELM%CNPRDCTCBC_SICE_SOCN_MOSART_SGLC_SWAV</lname>
    </compset>
 
+<!---I compset system for uELMTES -->
+   <compset>
+     <alias>I1850uELMTESCNRDCTCBC</alias>
+     <lname>1850_DATM%uELMTES_ELM%CNRDCTCBC_SICE_SOCN_MOSART_SGLC_SWAV</lname>
+   </compset>
+
+   <compset>
+    <alias>I1850uELMTESCNPRDCTCBC</alias>
+    <lname>1850_DATM%uELMTES_ELM%CNPRDCTCBC_SICE_SOCN_MOSART_SGLC_SWAV</lname>
+   </compset>
+
+   <compset>
+    <alias>I20TRuELMTESCNPRDCTCBC</alias>
+    <lname>20TR_DATM%uELMTES_ELM%CNPRDCTCBC_SICE_SOCN_MOSART_SGLC_SWAV</lname>
+   </compset>
+
+<!---I compset system for kmELM -->
+
+<!---I compset system for uELMTES -->
+   <compset>
+     <alias>I1850uELMTESCNRDCTCBC</alias>
+     <lname>1850_DATM%uELMTES_ELM%CNRDCTCBC_SICE_SOCN_MOSART_SGLC_SWAV</lname>
+   </compset>
+
+   <compset>
+    <alias>I1850uELMTESCNPRDCTCBC</alias>
+    <lname>1850_DATM%uELMTES_ELM%CNPRDCTCBC_SICE_SOCN_MOSART_SGLC_SWAV</lname>
+   </compset>
+
+   <compset>
+    <alias>I20TRuELMTESCNPRDCTCBC</alias>
+    <lname>20TR_DATM%uELMTES_ELM%CNPRDCTCBC_SICE_SOCN_MOSART_SGLC_SWAV</lname>
+   </compset>
+
+<!---I compset system for kmELM -->
+
    <compset>
     <alias>I20TRGSWCNPRDCTCBCTOP</alias>
     <lname>20TR_DATM%GSWP3v1_ELM%CNPRDCTCBCTOP_SICE_SOCN_MOSART_SGLC_SWAV</lname>
+     <alias>I1850uELMCNRDCTCBC</alias>
+     <lname>1850_DATM%kmELM_ELM%CNRDCTCBC_SICE_SOCN_MOSART_SGLC_SWAV</lname>
    </compset>
 
   <!---I E3SMWCv2 BGCv2 compsets-->
@@ -832,6 +870,16 @@
     <alias>I20TRGSWCNPWFMCROP</alias>
     <lname>20TR_DATM%GSWP3v1_ELM%CNPRDCTCBCWFM-CROP_SICE_SOCN_MOSART_SGLC_SWAV</lname>
   </compset>
+   <compset>
+    <alias>I1850uELMCNPRDCTCBC</alias>
+    <lname>1850_DATM%kmELM_ELM%CNPRDCTCBC_SICE_SOCN_MOSART_SGLC_SWAV</lname>
+   </compset>
+
+
+   <compset>
+    <alias>I20TRuELMCNPRDCTCBC</alias>
+    <lname>20TR_DATM%kmELM_ELM%CNPRDCTCBC_SICE_SOCN_MOSART_SGLC_SWAV</lname>
+   </compset>
 
   <!---I compset system tests -->
 
